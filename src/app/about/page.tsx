@@ -1,4 +1,3 @@
-import { Footer } from '@/components/Footer';
 import React from 'react';
 
 const AboutPage = () => {
@@ -17,8 +16,8 @@ const AboutPage = () => {
         <p className="text-lg md:text-xl leading-relaxed">
           Welcome to our travel website, your gateway to explore the world! We
           are dedicated to providing the best travel experiences, curated
-          destinations, and tailored travel packages. Whether you're looking
-          for adventure, relaxation, or cultural exploration, we've got
+          destinations, and tailored travel packages. Whether you&apos;re looking
+          for adventure, relaxation, or cultural exploration, we&apos;ve got
           something for everyone.
         </p>
       </div>
